@@ -1,12 +1,12 @@
-# 💬 ChatKeeper
+# 💬 SaveChat
 
 > **Save, organize, and access your favorite ChatGPT conversations with ease**
 
-ChatKeeper is a powerful Chrome extension that allows you to bookmark and manage your ChatGPT conversations with custom names. Never lose track of important discussions again!
+SaveChat is a powerful Chrome extension that allows you to bookmark and manage your ChatGPT conversations with custom names. Never lose track of important discussions again!
 
 [![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-blue?style=for-the-badge&logo=google-chrome)](https://chrome.google.com/webstore)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/version-1.0.0-brightgreen?style=for-the-badge)](https://github.com/yourusername/chatkeeper)
+[![Version](https://img.shields.io/badge/version-1.0.0-brightgreen?style=for-the-badge)](https://github.com/yourusername/SaveChat)
 
 ## ✨ Features
 
@@ -22,7 +22,7 @@ ChatKeeper is a powerful Chrome extension that allows you to bookmark and manage
 ## 📸 Screenshots
 
 ### Main Interface
-![ChatKeeper Main Interface](public/screenshot1.png)
+![SaveChat Main Interface](public/screenshot1.png)
 
 *Clean, modern interface for managing your conversations*
 
@@ -37,8 +37,8 @@ ChatKeeper is a powerful Chrome extension that allows you to bookmark and manage
 ### Manual Installation (Developer Mode)
 1. **Download the extension**
    ```bash
-   git clone https://github.com/krishnagauss/chatkeeper.git
-   cd chatkeeper
+   git clone https://github.com/krishnagauss/SaveChat.git
+   cd SaveChat
    ```
 
 2. **Open Chrome Extensions**
@@ -47,19 +47,19 @@ ChatKeeper is a powerful Chrome extension that allows you to bookmark and manage
 
 3. **Load the extension**
    - Click "Load unpacked"
-   - Select the `chatkeeper` folder
+   - Select the `SaveChat` folder
    - The extension will appear in your toolbar
 
-4. **Start using ChatKeeper**
+4. **Start using SaveChat**
    - Navigate to [chat.openai.com](https://chat.openai.com) or [chatgpt.com](https://chatgpt.com)
-   - Click the ChatKeeper icon in your toolbar
+   - Click the SaveChat icon in your toolbar
    - Start saving conversations!
 
 ## 📖 How to Use
 
 ### Saving a Conversation
 1. Open any ChatGPT conversation
-2. Click the ChatKeeper extension icon
+2. Click the SaveChat extension icon
 3. Enter a memorable name (or use the suggested one)
 4. Click "Save Current"
 5. ✅ Done! Your conversation is saved
@@ -85,7 +85,7 @@ ChatKeeper is a powerful Chrome extension that allows you to bookmark and manage
 
 ### File Structure
 ```
-chatkeeper/
+SaveChat/
 ├── manifest.json          # Extension configuration
 ├── popup.html            # Main interface
 ├── popup.js              # UI logic and functionality  
@@ -107,8 +107,8 @@ chatkeeper/
 ### Development Setup
 1. **Fork and clone the repository**
    ```bash
-   git clone https://github.com/yourusername/chatkeeper.git
-   cd chatkeeper
+   git clone https://github.com/yourusername/SaveChat.git
+   cd SaveChat
    ```
 
 2. **Load in Chrome for testing**
@@ -141,17 +141,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Having issues or questions?
 
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/krishnagauss/chatkeeper/issues)
+- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/krishnagauss/SaveChat/issues)
 - 🐦 **X**: [@krishnagauss](https://twitter.com/krishnagauss)
 
 ---
 
 <div align="center">
 
-**⭐ If ChatKeeper helped you organize your conversations, please give us a star!**
+**⭐ If SaveChat helped you organize your conversations, please give us a star!**
 
 Made with ❤️ for the ChatGPT community
 
-[⬆ Back to Top](#-chatkeeper)
+[⬆ Back to Top](#-SaveChat)
 
 </div>
